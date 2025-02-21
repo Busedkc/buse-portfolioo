@@ -37,33 +37,31 @@ export default function Home() {
         <h2 className="text-3xl font-bold text-gray-200">Tech Stack</h2>
         <h3 className="text-2xl font-semibold text-gray-300 mt-6">Programming Languages</h3>
         <div className="flex flex-wrap justify-center gap-6 mt-4">
-          <Image src="/images/python.png" alt="Python" width={60} height={60} />
-          <Image src="/images/java2.png" alt="Java" width={60} height={60} />
-          <Image src="/images/csharp.png" alt="C#" width={60} height={60} />
+          <Image src="/images/python.png" alt="Python" width={70} height={70} />
+          <Image src="/images/java2.png" alt="Java" width={70} height={70} />
         </div>
 
         <h3 className="text-2xl font-semibold text-gray-300 mt-6">Data Science & Machine Learning Tools</h3>
         <div className="flex flex-wrap justify-center gap-6 mt-4">
-        <Image src="/images/pandas.png" alt="Pandas" width={60} height={60} />
-          <Image src="/images/numpy.png" alt="NumPy" width={60} height={60} />
-          <Image src="/images/matplotlib.png" alt="Matplotlib" width={60} height={60} />
-          <Image src="/images/seaborn.png" alt="Seaborn" width={60} height={60} />
-          <Image src="/images/scikitlearn.png" alt="Scikit-learn" width={60} height={60} />
-          <Image src="/images/opencv.png" alt="OpenCV" width={60} height={60} />
+        <Image src="/images/pandas.png" alt="Pandas" width={70} height={70} />
+          <Image src="/images/numpy.png" alt="NumPy" width={70} height={70} />
+          <Image src="/images/matplotlib.png" alt="Matplotlib" width={70} height={70} />
+          <Image src="/images/seaborn.png" alt="Seaborn" width={70} height={70} />
+          <Image src="/images/scikitlearn.png" alt="Scikit-learn" width={70} height={70} />
+          <Image src="/images/opencv.png" alt="OpenCV" width={70} height={70} />
         </div>
 
         <h3 className="text-2xl font-semibold text-gray-300 mt-6">Web Technologies</h3>
         <div className="flex flex-wrap justify-center gap-6 mt-4">
-          <Image src="/images/html.png" alt="HTML5" width={60} height={60} />
-          <Image src="/images/css.png" alt="CSS3" width={60} height={60} />
-          <Image src="/images/javascript.png" alt="JavaScript" width={60} height={60} />
-          <Image src="/images/flask.png" alt="Flask" width={60} height={60} />
+          <Image src="/images/css.png" alt="CSS3" width={70} height={70} />
+          <Image src="/images/javascript1.png" alt="JavaScript" width={70} height={70} />
+          <Image src="/images/flask.png" alt="Flask" width={70} height={70} />
         </div>
 
         <h3 className="text-2xl font-semibold text-gray-300 mt-6">Database Management Systems</h3>
         <div className="flex flex-wrap justify-center gap-6 mt-4">
-          <Image src="/images/oracle.png" alt="Oracle SQL" width={60} height={60} />
-          <Image src="/images/mysql.png" alt="MySQL" width={60} height={60} />
+          <Image src="/images/oracle.png" alt="Oracle SQL" width={70} height={70} />
+          <Image src="/images/mysql.png" alt="MySQL" width={70} height={70} />
         </div>
       </section>
 
@@ -139,7 +137,7 @@ export default function Home() {
         <h2 className="text-3xl font-bold text-gray-200">Contact Me</h2>
         <p className="text-gray-400 mt-4">Let&apos;s connect!</p>
         <div className="mt-6 flex flex-col gap-4">
-          <p className="text-lg">📧 Email: <a href="mailto:busedikici@example.com" className="text-blue-400">busedikici@example.com</a></p>
+          <p className="text-lg">📧 Email: <a href="mailto:dikicib@mef.edu.tr" className="text-blue-400">dikicib@mef.edu.tr</a></p>
           <p className="text-lg">🔗 LinkedIn: <a href="https://www.linkedin.com/in/buse-dikici-637938220/" className="text-blue-400">Buse Dikici</a></p>
           <p className="text-lg">📝 Blog: <a href="https://www.instagram.com/busetechista/" className="text-pink-400">@busetechista</a></p>
         </div>
