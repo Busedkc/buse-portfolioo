@@ -137,7 +137,7 @@ export default function Home() {
 
       <section id="contact" className="w-full max-w-4xl mt-12 text-center py-12 bg-gray-800 rounded-lg shadow-md">
         <h2 className="text-3xl font-bold text-gray-200">Contact Me</h2>
-        <p className="text-gray-400 mt-4">Let's connect!</p>
+        <p className="text-gray-400 mt-4">Let&apos;s connect!</p>
         <div className="mt-6 flex flex-col gap-4">
           <p className="text-lg">📧 Email: <a href="mailto:busedikici@example.com" className="text-blue-400">busedikici@example.com</a></p>
           <p className="text-lg">🔗 LinkedIn: <a href="https://www.linkedin.com/in/buse-dikici-637938220/" className="text-blue-400">Buse Dikici</a></p>
